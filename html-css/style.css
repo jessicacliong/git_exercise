@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(156, 25, 156);
+    text-align: center;
+}
+ul {
+    border: 2px solid green;
+}
+#hobbies li {
+    background: lightblue;    
+}
+.thumbnail {
+    width: 10vh;
+}
